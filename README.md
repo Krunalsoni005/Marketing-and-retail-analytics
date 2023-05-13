@@ -1,6 +1,6 @@
 # Marketing-and-retail-analytics for Olist Company 
 
-Note :- I upload marketing and retail analystics project files on drive , please check through below link if it can not direcly open then copy and pasete in your bowser , in this link you can see my presentation skills , visulisation skills , python skills , critical thinkinf and thought process of analytical thinking and many more.
+Note :- I upload marketing and retail analystics project files on drive , please check through below link if it can not direcly open then copy and pasete in your bowser , in this link you can see my presentation skills , visulisation skills , python skills , critical thinking and thought process of analytical thinking and many more.
 
 Document Detail And name :- 
 
